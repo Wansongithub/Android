@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_a"
+            android:checked="true"
+            android:title="A"/>
+        <item
+            android:id="@+id/nav_b"
+            android:title="B"/>
+        <item
+            android:id="@+id/nav_c"
+            android:title="C"/>
+        <item
+            android:id="@+id/nav_d"
+            android:title="D"/>
+        <item
+            android:id="@+id/nav_e"
+            android:title="E"/>
+        <item
+            android:id="@+id/nav_f"
+            android:title="F"/>
+        <item
+            android:id="@+id/nav_g"
+            android:title="G"/>
+    </group>
+
+
+</menu>
